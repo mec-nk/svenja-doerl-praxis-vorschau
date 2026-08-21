@@ -1,0 +1,13 @@
+{
+  "name": "Ergotherapie Svenja Dörl & Heike Rummel",
+  "short_name": "Ergotherapie Dörl/Rummel",
+  "description": "Praxis für Ergotherapie in Homburg (Saar) – Neurologie, Pädiatrie, Orthopädie, Geriatrie.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf9f4",
+  "theme_color": "#2f4a61",
+  "icons": [
+    { "src": "assets/img/favicon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/img/favicon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
